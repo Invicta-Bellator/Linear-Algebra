@@ -7,5 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.apache.poi:poi:4.1.2" level="project" />
+    <orderEntry type="library" name="org.apache.poi:poi-ooxml:4.1.2" level="project" />
+    <orderEntry type="library" name="org.ejml:ejml-all:0.39" level="project" />
   </component>
 </module>
